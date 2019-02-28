@@ -1,0 +1,1393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27ef1ccb-e727-4e2c-8065-3ae8bb3fe403" name="Default" comment="" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="auto-serv-final" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Filter.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/components/Filter.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/containers/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="23" column="27" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cart.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/actions/cart.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="books.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/actions/books.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/actions/filter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/components/App.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BookCard.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/components/BookCard.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" column="32" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Menu.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/components/Menu.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="25" column="62" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>info</find>
+      <find>sv</find>
+      <find>i{</find>
+      <find>active</find>
+      <find>admin</find>
+      <find>DJANGO_SETTINGS_MODULE</find>
+      <find>class</find>
+      <find>servi</find>
+      <find>.services-block-alt p</find>
+      <find>.contacts-menu img</find>
+      <find>.info-banner</find>
+      <find>persona</find>
+      <find>person</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/Abaut-main.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/project/urls.py" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/manage.py" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/manage.py" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/project/wsgi.py" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/leads/tests.py" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/pages/ContactsBanner.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/templates/frontend/contacts.html" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/views.py" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/ContactsBanner.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/pages/contacts.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/ContactsForm.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/UslugBanner.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/UskugiContent.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/pages/portfolio.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/store.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/modal/actions.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/modal/reducers.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/reducers.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/modal/component.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/modal/index.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/img/index.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/index.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/AbotBanner.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/pages/about.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/block-action.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/AboutContent.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/Main-banner.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/UslugiContent.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/leads/serializers.py" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/leads/views.py" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/leads/apps.py" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/leads/urls.py" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/footer.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/App.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/Header.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/pages/PersonalContent.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/pages/personal-room.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/PersonalContent.js" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/static/frontend/css/index.css" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/leads/admin.py" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/templates/frontend/index.html" />
+        <option value="$PROJECT_DIR$/react-shopping-cart/README.md" />
+        <option value="$PROJECT_DIR$/react-shopping-cart/src/components/BookCard.jsx" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/leads/models.py" />
+        <option value="$PROJECT_DIR$/django-drf-react-quickstart/project/project/settings.py" />
+        <option value="$PROJECT_DIR$/react-shopping-cart/src/components/App.jsx" />
+        <option value="$PROJECT_DIR$/react-shopping-cart/src/containers/App.js" />
+        <option value="$PROJECT_DIR$/react-shopping-cart/src/containers/Menu.js" />
+        <option value="$PROJECT_DIR$/react-shopping-cart/src/components/Filter.jsx" />
+        <option value="$PROJECT_DIR$/react-shopping-cart/src/components/Menu.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/django-drf-react-quickstart/node_modules" />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="30" />
+    <option name="width" value="1920" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-shopping-cart" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-shopping-cart" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-shopping-cart" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reducers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-shopping-cart" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="containers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-shopping-cart" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-shopping-cart" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="actions" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-shopping-cart" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-shopping-cart" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django-drf-react-quickstart" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django-drf-react-quickstart" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django-drf-react-quickstart" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto-serv-final" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django-drf-react-quickstart" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leads" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../auto-serv-final (copy)" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/static/frontend/fonts" />
+      <recent name="$PROJECT_DIR$/django-drf-react-quickstart/project/project" />
+      <recent name="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/static/frontend/img" />
+      <recent name="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/img" />
+      <recent name="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/static/frontend" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components" />
+      <recent name="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/img" />
+      <recent name="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/img" />
+      <recent name="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/static/frontend/img" />
+      <recent name="$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/static/frontend/fonts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27ef1ccb-e727-4e2c-8065-3ae8bb3fe403" name="Default" comment="" />
+      <created>1544022523825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544022523825</updated>
+      <workItem from="1551112614521" duration="11586000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11586000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="30" width="1920" height="1050" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2913554" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2913554" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/django-drf-react-quickstart/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-drf-react-quickstart/project/project/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-drf-react-quickstart/project/project/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-drf-react-quickstart/project/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-drf-react-quickstart/project/project/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/Main-banner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+          <folding>
+            <element signature="e#41#82#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-drf-react-quickstart/project/leads/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-drf-react-quickstart/project/leads/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-drf-react-quickstart/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-drf-react-quickstart/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-drf-react-quickstart/project/project/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-drf-react-quickstart/project/project/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-drf-react-quickstart/project/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/components/Main-banner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+          <folding>
+            <element signature="e#41#82#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1551113671800" expanded="true" signature="0:456891" ph="{&quot;name&quot;: &quot;react-shopping-cart&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="119:456889" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="390:440" ph="{&quot;regenerator-runtime&quot;: &quot;^0.12.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="1215:1731" ph="{&quot;version&quot;: &quot;2.0.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="1497:1725" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="1516:1717" ph="{&quot;version&quot;: &quot;4.0.13&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="1754:2256" ph="{&quot;version&quot;: &quot;3.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="2022:2250" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="2041:2242" ph="{&quot;version&quot;: &quot;4.0.13&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="2535:2761" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="2554:2753" ph="{&quot;version&quot;: &quot;3.3.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="2784:3010" ph="{&quot;version&quot;: &quot;1.0.3&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="3212:3371" ph="{&quot;co&quot;: &quot;^4.6.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="3399:3654" ph="{&quot;version&quot;: &quot;3.4.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="3877:3978" ph="{&quot;kind-of&quot;: &quot;^3.0.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="4007:4202" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="4495:4731" ph="{&quot;version&quot;: &quot;3.2.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="4750:4937" ph="{&quot;version&quot;: &quot;0.0.7&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="5707:5984" ph="{&quot;version&quot;: &quot;0.4.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="6002:6311" ph="{&quot;version&quot;: &quot;1.0.10&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="6331:6615" ph="{&quot;version&quot;: &quot;0.7.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="6534:6609" ph="{&quot;ast-types-flow&quot;: &quot;0.0.7&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="6900:7153" ph="{&quot;version&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="7172:7359" ph="{&quot;version&quot;: &quot;3.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="8017:8274" ph="{&quot;version&quot;: &quot;2.1.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="8509:8589" ph="{&quot;define-properties&quot;: &quot;^1.1.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="9270:9459" ph="{&quot;version&quot;: &quot;1.0.3&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="9690:9871" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="9885:10043" ph="{&quot;version&quot;: &quot;2.0.6&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="10310:10352" ph="{&quot;safer-buffer&quot;: &quot;~2.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="10636:10742" ph="{&quot;bn.js&quot;: &quot;^4.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="11017:11538" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="11039:11244" ph="{&quot;version&quot;: &quot;2.0.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="12001:12198" ph="{&quot;version&quot;: &quot;0.0.7&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="12468:12506" ph="{&quot;lodash&quot;: &quot;^4.17.11&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="13199:13700" ph="{&quot;version&quot;: &quot;7.1.6&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="13468:13694" ph="{&quot;browserslist&quot;: &quot;^2.5.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="13920:14159" ph="{&quot;version&quot;: &quot;1.8.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="14350:14427" ph="{&quot;follow-redirects&quot;: &quot;^1.3.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="16545:16891" ph="{&quot;version&quot;: &quot;3.0.4&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="16828:16881" ph="{&quot;brace-expansion&quot;: &quot;^1.1.7&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="17124:17333" ph="{&quot;version&quot;: &quot;0.5.7&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="17755:18573" ph="{&quot;version&quot;: &quot;6.26.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="18326:18567" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="18638:19082" ph="{&quot;version&quot;: &quot;6.24.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="20672:20787" ph="{&quot;babel-runtime&quot;: &quot;^6.22.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="20829:21278" ph="{&quot;version&quot;: &quot;6.24.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="21319:21650" ph="{&quot;version&quot;: &quot;6.24.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="21566:21644" ph="{&quot;babel-runtime&quot;: &quot;^6.22.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="21929:22007" ph="{&quot;babel-runtime&quot;: &quot;^6.22.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="22319:22397" ph="{&quot;babel-runtime&quot;: &quot;^6.22.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="22652:22759" ph="{&quot;babel-runtime&quot;: &quot;^6.26.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="23315:23809" ph="{&quot;version&quot;: &quot;6.24.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="23832:24130" ph="{&quot;version&quot;: &quot;6.24.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="24043:24124" ph="{&quot;babel-runtime&quot;: &quot;^6.22.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="24775:24881" ph="{&quot;find-cache-dir&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="24911:25174" ph="{&quot;version&quot;: &quot;6.23.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="25219:25524" ph="{&quot;version&quot;: &quot;6.22.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="25474:25518" ph="{&quot;babel-runtime&quot;: &quot;^6.22.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="28789:29048" ph="{&quot;version&quot;: &quot;6.22.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="29845:30033" ph="{&quot;babel-helper-function-name&quot;: &quot;^6.24.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="30481:30820" ph="{&quot;version&quot;: &quot;6.22.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="30770:30814" ph="{&quot;babel-runtime&quot;: &quot;^6.22.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="30873:31331" ph="{&quot;version&quot;: &quot;6.26.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="31378:32037" ph="{&quot;version&quot;: &quot;6.24.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="32519:32840" ph="{&quot;version&quot;: &quot;6.23.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="32894:33251" ph="{&quot;version&quot;: &quot;6.24.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="33297:33604" ph="{&quot;version&quot;: &quot;6.23.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="33554:33598" ph="{&quot;babel-runtime&quot;: &quot;^6.22.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="33928:34055" ph="{&quot;babel-helper-function-name&quot;: &quot;^6.24.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="34370:34414" ph="{&quot;babel-runtime&quot;: &quot;^6.22.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="36256:36401" ph="{&quot;babel-plugin-transform-es2015-modules-amd&quot;: &quot;^6.24.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="36459:36828" ph="{&quot;version&quot;: &quot;6.24.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="37464:37833" ph="{&quot;version&quot;: &quot;6.24.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="37879:38186" ph="{&quot;version&quot;: &quot;6.22.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="38136:38180" ph="{&quot;babel-runtime&quot;: &quot;^6.22.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="38507:38626" ph="{&quot;babel-helper-regex&quot;: &quot;^6.24.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="38689:39018" ph="{&quot;version&quot;: &quot;6.22.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="39071:39392" ph="{&quot;version&quot;: &quot;6.23.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="39342:39386" ph="{&quot;babel-runtime&quot;: &quot;^6.22.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="40174:40361" ph="{&quot;babel-helper-builder-binary-assignment-operator-visitor&quot;: &quot;^6.24.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="40416:40776" ph="{&quot;version&quot;: &quot;6.22.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="40679:40770" ph="{&quot;babel-plugin-syntax-flow&quot;: &quot;^6.18.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="40827:41204" ph="{&quot;version&quot;: &quot;6.26.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="41260:41587" ph="{&quot;version&quot;: &quot;6.23.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="41638:41955" ph="{&quot;version&quot;: &quot;6.25.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="41905:41949" ph="{&quot;babel-runtime&quot;: &quot;^6.22.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="42246:42388" ph="{&quot;babel-helper-builder-react-jsx&quot;: &quot;^6.24.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="42700:42789" ph="{&quot;babel-plugin-syntax-jsx&quot;: &quot;^6.8.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="42844:43202" ph="{&quot;version&quot;: &quot;6.22.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="43246:43557" ph="{&quot;version&quot;: &quot;6.26.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="43597:43892" ph="{&quot;version&quot;: &quot;6.23.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="43936:44273" ph="{&quot;version&quot;: &quot;6.24.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="48312:48607" ph="{&quot;version&quot;: &quot;6.23.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="48634:48913" ph="{&quot;version&quot;: &quot;20.0.3&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="49824:50557" ph="{&quot;babel-plugin-dynamic-import-node&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="51361:51670" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="51394:51662" ph="{&quot;version&quot;: &quot;0.11.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="52655:53215" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="52674:52998" ph="{&quot;version&quot;: &quot;2.6.9&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="53014:53207" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="54628:54922" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="55354:55710" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="55655:55700" ph="{&quot;kind-of&quot;: &quot;^6.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="55737:56175" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="56028:56165" ph="{&quot;is-accessor-descriptor&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="56197:56402" ph="{&quot;version&quot;: &quot;3.0.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="56423:56688" ph="{&quot;version&quot;: &quot;6.0.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="57186:57439" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="57393:57433" ph="{&quot;tweetnacl&quot;: &quot;^0.14.3&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="59434:59787" ph="{&quot;version&quot;: &quot;0.4.23&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="60224:60443" ph="{&quot;array-flatten&quot;: &quot;^2.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="61173:62600" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="61198:61546" ph="{&quot;version&quot;: &quot;3.2.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="62070:62205" ph="{&quot;ansi-styles&quot;: &quot;^3.2.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="62536:62582" ph="{&quot;has-flag&quot;: &quot;^3.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="62631:62970" ph="{&quot;version&quot;: &quot;1.1.11&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="62889:62964" ph="{&quot;balanced-match&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="63520:64095" ph="{&quot;version&quot;: &quot;1.11.3&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="63857:64089" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="65490:65775" ph="{&quot;version&quot;: &quot;4.0.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="66273:66588" ph="{&quot;version&quot;: &quot;0.2.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="66548:66582" ph="{&quot;pako&quot;: &quot;~1.0.5&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="66610:66979" ph="{&quot;version&quot;: &quot;2.11.3&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="66881:66973" ph="{&quot;caniuse-lite&quot;: &quot;^1.0.30000792&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="67184:67224" ph="{&quot;node-int64&quot;: &quot;^0.4.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="69586:69821" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="69848:70098" ph="{&quot;version&quot;: &quot;0.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="70117:70304" ph="{&quot;version&quot;: &quot;0.2.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="70324:70602" ph="{&quot;version&quot;: &quot;3.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="70621:70808" ph="{&quot;version&quot;: &quot;3.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="70832:71379" ph="{&quot;version&quot;: &quot;2.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="71135:71373" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="71805:72143" ph="{&quot;version&quot;: &quot;1.7.7&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="73333:73520" ph="{&quot;version&quot;: &quot;0.12.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="73542:73827" ph="{&quot;version&quot;: &quot;0.1.3&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="75377:75465" ph="{&quot;micromatch&quot;: &quot;^3.1.4&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="75525:75861" ph="{&quot;version&quot;: &quot;2.1.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="77343:77402" ph="{&quot;is-extendable&quot;: &quot;^0.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="78382:78708" ph="{&quot;version&quot;: &quot;0.2.5&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="78740:79064" ph="{&quot;version&quot;: &quot;2.0.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="79104:79853" ph="{&quot;version&quot;: &quot;0.1.6&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="79371:79424" ph="{&quot;kind-of&quot;: &quot;^3.0.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="79889:80630" ph="{&quot;version&quot;: &quot;0.1.4&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="80148:80201" ph="{&quot;kind-of&quot;: &quot;^3.0.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="80519:80582" ph="{&quot;is-buffer&quot;: &quot;^1.1.5&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="80972:81125" ph="{&quot;is-accessor-descriptor&quot;: &quot;^0.1.6&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="81492:82853" ph="{&quot;version&quot;: &quot;2.0.4&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="82149:82475" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="82402:82461" ph="{&quot;is-descriptor&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="82758:82817" ph="{&quot;is-extendable&quot;: &quot;^0.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="83100:83266" ph="{&quot;extend-shallow&quot;: &quot;^2.0.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="83577:83636" ph="{&quot;is-extendable&quot;: &quot;^0.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="83922:84005" ph="{&quot;is-glob&quot;: &quot;^3.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="84295:84351" ph="{&quot;is-extglob&quot;: &quot;^2.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="84819:85175" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="85120:85165" ph="{&quot;kind-of&quot;: &quot;^6.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="85664:85873" ph="{&quot;version&quot;: &quot;2.1.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="86413:86458" ph="{&quot;kind-of&quot;: &quot;^3.0.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="86511:86817" ph="{&quot;version&quot;: &quot;3.2.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="87376:88153" ph="{&quot;version&quot;: &quot;3.1.10&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="87663:88143" ph="{&quot;arr-diff&quot;: &quot;^4.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="88169:88362" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="88390:88669" ph="{&quot;version&quot;: &quot;3.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="88700:88945" ph="{&quot;version&quot;: &quot;1.6.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="88966:89310" ph="{&quot;version&quot;: &quot;1.0.4&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="89333:89590" ph="{&quot;version&quot;: &quot;0.3.3&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="89857:89892" ph="{&quot;chalk&quot;: &quot;^1.1.3&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="90186:90327" ph="{&quot;arr-union&quot;: &quot;^3.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="90351:90909" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="90380:90674" ph="{&quot;version&quot;: &quot;0.2.5&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="90613:90664" ph="{&quot;is-descriptor&quot;: &quot;^0.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="91186:91495" ph="{&quot;version&quot;: &quot;4.2.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="91974:92142" ph="{&quot;version&quot;: &quot;2.2.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="92350:92455" ph="{&quot;string-width&quot;: &quot;^1.0.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="92516:92826" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="92765:92816" ph="{&quot;number-is-nan&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="92852:93225" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="93079:93215" ph="{&quot;code-point-at&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="93445:93618" ph="{&quot;version&quot;: &quot;4.6.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="93631:93857" ph="{&quot;version&quot;: &quot;1.0.4&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="94101:94395" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="94316:94389" ph="{&quot;map-visit&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="94605:94709" ph="{&quot;clone&quot;: &quot;^1.0.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="95055:95225" ph="{&quot;version&quot;: &quot;1.1.3&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="95247:95500" ph="{&quot;version&quot;: &quot;0.3.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="95454:95494" ph="{&quot;color-name&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="95836:96017" ph="{&quot;version&quot;: &quot;1.1.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="96317:96361" ph="{&quot;delayed-stream&quot;: &quot;~1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="96870:97073" ph="{&quot;version&quot;: &quot;1.2.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="97095:97416" ph="{&quot;version&quot;: &quot;2.0.16&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="97942:98502" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="97961:98285" ph="{&quot;version&quot;: &quot;2.6.9&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="98236:98275" ph="{&quot;ms&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="99426:99634" ph="{&quot;dot-prop&quot;: &quot;^4.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="99678:99965" ph="{&quot;version&quot;: &quot;1.6.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="99993:100256" ph="{&quot;version&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="100212:100250" ph="{&quot;date-now&quot;: &quot;^0.1.4&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="101255:101524" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="101552:101880" ph="{&quot;version&quot;: &quot;1.6.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="101833:101874" ph="{&quot;safe-buffer&quot;: &quot;~5.1.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="103539:103774" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="103801:104139" ph="{&quot;version&quot;: &quot;4.0.3&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="104386:104435" ph="{&quot;capture-stack-trace&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="105404:105699" ph="{&quot;version&quot;: &quot;5.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="108447:108656" ph="{&quot;version&quot;: &quot;0.5.7&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="108684:108971" ph="{&quot;version&quot;: &quot;3.2.3&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="108915:108961" ph="{&quot;has-flag&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="109660:109761" ph="{&quot;cssesc&quot;: &quot;^0.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="109785:110175" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="109811:110167" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="110038:110157" ph="{&quot;regenerate&quot;: &quot;^1.2.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="112201:114329" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="112742:113080" ph="{&quot;version&quot;: &quot;1.7.7&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="113797:114006" ph="{&quot;version&quot;: &quot;0.5.7&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="114265:114311" ph="{&quot;has-flag&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="114630:114871" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="114654:114863" ph="{&quot;version&quot;: &quot;0.5.7&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="115421:115694" ph="{&quot;version&quot;: &quot;0.4.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="115705:115934" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="115963:116170" ph="{&quot;version&quot;: &quot;1.0.4&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="116188:116436" ph="{&quot;version&quot;: &quot;1.14.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="116890:116922" ph="{&quot;ms&quot;: &quot;^2.1.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="118063:118246" ph="{&quot;version&quot;: &quot;0.1.3&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="118282:118562" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="118589:118916" ph="{&quot;version&quot;: &quot;1.1.3&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="118941:121093" ph="{&quot;version&quot;: &quot;2.0.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="119745:120101" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="120046:120091" ph="{&quot;kind-of&quot;: &quot;^6.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="120128:120566" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="120419:120556" ph="{&quot;is-accessor-descriptor&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="120588:120793" ph="{&quot;version&quot;: &quot;3.0.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="120814:121079" ph="{&quot;version&quot;: &quot;6.0.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="121306:121731" ph="{&quot;version&quot;: &quot;2.2.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="121495:121725" ph="{&quot;globby&quot;: &quot;^5.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="121966:122143" ph="{&quot;version&quot;: &quot;1.1.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="122456:122639" ph="{&quot;version&quot;: &quot;1.0.4&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="122662:122916" ph="{&quot;version&quot;: &quot;4.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="123559:124073" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="123830:123869" ph="{&quot;ms&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="124756:124943" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="125228:125293" ph="{&quot;ip&quot;: &quot;^1.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="125908:126218" ph="{&quot;version&quot;: &quot;0.2.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="126179:126212" ph="{&quot;utila&quot;: &quot;~0.4&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="126242:126595" ph="{&quot;version&quot;: &quot;0.1.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="126613:126854" ph="{&quot;version&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="126812:126848" ph="{&quot;urijs&quot;: &quot;^1.16.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="127705:127744" ph="{&quot;domelementtype&quot;: &quot;1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="127967:128037" ph="{&quot;dom-serializer&quot;: &quot;0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="128061:128364" ph="{&quot;version&quot;: &quot;4.2.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="128322:128358" ph="{&quot;is-obj&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="128982:129169" ph="{&quot;version&quot;: &quot;0.1.4&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="129986:130495" ph="{&quot;version&quot;: &quot;6.4.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="130247:130489" ph="{&quot;bn.js&quot;: &quot;^4.4.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="131387:131428" ph="{&quot;iconv-lite&quot;: &quot;~0.4.13&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="131835:132082" ph="{&quot;version&quot;: &quot;1.1.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="135234:135391" ph="{&quot;d&quot;: &quot;1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="136757:136919" ph="{&quot;esprima&quot;: &quot;^3.1.3&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="136943:137175" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="136964:137167" ph="{&quot;version&quot;: &quot;3.1.3&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="139024:141436" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="139048:139257" ph="{&quot;version&quot;: &quot;3.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="139569:139620" ph="{&quot;color-convert&quot;: &quot;^1.9.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="140090:140355" ph="{&quot;version&quot;: &quot;4.0.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="140993:141041" ph="{&quot;ansi-regex&quot;: &quot;^3.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="141475:141752" ph="{&quot;version&quot;: &quot;2.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="141789:142742" ph="{&quot;version&quot;: &quot;0.3.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="142088:142152" ph="{&quot;debug&quot;: &quot;^2.6.9&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="142176:142736" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="142195:142519" ph="{&quot;version&quot;: &quot;2.6.9&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="142535:142728" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="143246:144183" ph="{&quot;version&quot;: &quot;2.3.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="143529:143593" ph="{&quot;debug&quot;: &quot;^2.6.8&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="143617:144177" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="143636:143960" ph="{&quot;version&quot;: &quot;2.6.9&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="144215:144549" ph="{&quot;version&quot;: &quot;2.39.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="146343:146536" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="146780:146822" ph="{&quot;pify&quot;: &quot;^2.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="147073:147208" ph="{&quot;load-json-file&quot;: &quot;^2.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="147243:147557" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="147833:148384" ph="{&quot;version&quot;: &quot;5.1.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="148696:148828" ph="{&quot;doctrine&quot;: &quot;^2.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="149108:149160" ph="{&quot;array-includes&quot;: &quot;^3.0.3&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="149206:149552" ph="{&quot;version&quot;: &quot;3.7.3&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="149475:149546" ph="{&quot;esrecurse&quot;: &quot;^4.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="149914:150097" ph="{&quot;version&quot;: &quot;2.7.3&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="150438:150747" ph="{&quot;version&quot;: &quot;4.2.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="150701:150741" ph="{&quot;estraverse&quot;: &quot;^4.1.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="151151:151328" ph="{&quot;version&quot;: &quot;1.8.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="151351:151623" ph="{&quot;version&quot;: &quot;0.3.5&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="152369:152408" ph="{&quot;original&quot;: &quot;&gt;=0.0.5&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="152438:152786" ph="{&quot;version&quot;: &quot;1.0.3&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="152711:152780" ph="{&quot;md5.js&quot;: &quot;^1.3.4&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="153575:153840" ph="{&quot;version&quot;: &quot;0.1.5&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="155621:156668" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="155648:155863" ph="{&quot;version&quot;: &quot;1.1.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="155882:156206" ph="{&quot;version&quot;: &quot;2.6.9&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="156157:156196" ph="{&quot;ms&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="156222:156415" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="156443:156660" ph="{&quot;version&quot;: &quot;0.1.7&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="156690:156933" ph="{&quot;version&quot;: &quot;3.0.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="157168:157247" ph="{&quot;assign-symbols&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="157589:157642" ph="{&quot;is-plain-object&quot;: &quot;^2.0.4&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="157691:158049" ph="{&quot;version&quot;: &quot;2.2.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="157947:158043" ph="{&quot;chardet&quot;: &quot;^0.4.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="158263:158303" ph="{&quot;is-extglob&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="160701:160943" ph="{&quot;core-js&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="160967:161505" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="160988:161168" ph="{&quot;version&quot;: &quot;1.2.7&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="161788:162084" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="162003:162078" ph="{&quot;flat-cache&quot;: &quot;^1.2.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="162105:162454" ph="{&quot;version&quot;: &quot;1.1.5&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="162478:162675" ph="{&quot;version&quot;: &quot;2.0.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="162692:162960" ph="{&quot;version&quot;: &quot;2.0.3&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="164205:164765" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="164224:164548" ph="{&quot;version&quot;: &quot;2.6.9&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="165006:165104" ph="{&quot;commondir&quot;: &quot;^1.0.1&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="165324:165365" ph="{&quot;locate-path&quot;: &quot;^2.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="166019:166318" ph="{&quot;version&quot;: &quot;1.7.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="166334:166515" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="166532:166771" ph="{&quot;version&quot;: &quot;0.1.5&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="167404:167591" ph="{&quot;version&quot;: &quot;0.1.2&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="168623:181749" ph="{&quot;version&quot;: &quot;1.2.7&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="169000:181743" ph="{...}" />
+            <marker date="1551113671800" expanded="true" signature="169272:169390" ph="{&quot;version&quot;: &quot;1.2.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="169420:169650" ph="{&quot;version&quot;: &quot;1.1.5&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="169678:169758" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1551113671800" expanded="true" signature="180004:180181" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1314">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17334">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-drf-react-quickstart/project/frontend/cypress/fixtures/example.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-265">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/scripts/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1944">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-drf-react-quickstart/project/leads/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-drf-react-quickstart/project/project/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="71" column="38" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-drf-react-quickstart/project/leads/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-drf-react-quickstart/project/leads/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/public/books.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="138" column="2" selection-start-line="138" selection-start-column="2" selection-end-line="146" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-drf-react-quickstart/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/scripts/start.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/scripts/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/reducers/books.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/containers/Menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#38#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/node_modules/webpack-dev-server/client/live.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="23" column="144313" selection-start-line="23" selection-start-column="144313" selection-end-line="23" selection-end-column="144313" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/reducers/filter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/containers/BookCard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#38#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/containers/Filter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/reducers/cart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/containers/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/actions/books.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/actions/filter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/components/BookCard.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/components/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/components/Menu.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="25" column="62" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/node_modules/jquery/external/sizzle/dist/sizzle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-782">
+          <caret line="1627" column="9" selection-start-line="1627" selection-start-column="9" selection-end-line="1627" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/components/Filter.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-shopping-cart/src/actions/cart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
