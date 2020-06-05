@@ -34,7 +34,7 @@ radon = "==2.2.0"
 requests = "==2.18.4"
 six = "==1.11.0"
 urllib3 = "==1.22"
-Django = "==1.11.8"
+Django = "==1.11.29"
 Markdown = "==2.6.11"
 PyJWT = "==1.5.3"
 
